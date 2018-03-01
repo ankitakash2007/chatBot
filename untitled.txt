@@ -1,0 +1,3 @@
+Tutorials Used
+https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
+https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start
